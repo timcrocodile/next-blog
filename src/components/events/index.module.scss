@@ -1,0 +1,16 @@
+.Events {
+  position: relative;
+  color: rgb(255, 251, 251);
+  background-color: green;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  padding-top: 15px;
+  display: flex;
+  gap: 25px;
+  padding-left: 25px;
+
+  p:hover {
+    color: red;
+  }
+}
