@@ -4,12 +4,12 @@ const Events = () => {
   return (
     <div className={styles.Events}>
       <p>ecco l'evento dell'anno !!!!</p>
-      <Link href={"https://store.asroma.com/en/"}>
+      {/* <Link href={"https://store.asroma.com/en/"}>
         <p>roma</p>
       </Link>
       <Link href={"https://www.fcbarcelona.com/en/"}>
         <p>barcellona</p>
-      </Link>
+      </Link> */}
     </div>
   );
 };
