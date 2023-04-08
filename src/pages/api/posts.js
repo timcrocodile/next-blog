@@ -254,5 +254,12 @@ export const postsJson = [
       url: "https://via.placeholder.com/600/810b14",
       thumbnailUrl: "https://via.placeholder.com/150/810b14",
     },
+    {
+      albumId: 1,
+      id: 11,
+      title: "beatae et provident et ut vel",
+      url: "https://via.placeholder.com/600/810b14",
+      thumbnailUrl: "https://via.placeholder.com/150/810b14",
+    },
   ],
 ];
