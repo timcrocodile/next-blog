@@ -1,12 +1,12 @@
 import Header from "../header";
 import Footer from "../footer";
-import Events from "../Events";
+// import Events from "../Events";
 
 const Layout = ({ children }) => {
   return (
     <>
       <Header />
-      <Events />
+      {/* <Events /> */}
       {children}
 
       <Footer />
